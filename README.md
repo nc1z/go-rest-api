@@ -9,3 +9,9 @@ Clone the repository and run the command
 ```Go
 go run .
 ```
+
+To run tests
+
+```Go
+go test
+```
